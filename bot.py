@@ -16,7 +16,7 @@ from pyrogram.errors import UserNotParticipant
 
 app = Client(
     "ReferralBot",
-    bot_token="TOKEN",
+    bot_token="TOKEN",7968826188:AAF-ZvkCGierOXpGPnIK3E732Z55aHWN5sE
     api_id='1234',
     api_hash="API_HASH",
 )
